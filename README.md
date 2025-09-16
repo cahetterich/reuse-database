@@ -1,6 +1,6 @@
 # 🌱 ReUse!  
 
-Plataforma web desenvolvida em **Next.js + Prisma + PostgreSQL (Neon)** para incentivar a reutilização de itens (doação, troca ou venda).  
+Plataforma web desenvolvida em **Prisma + PostgreSQL (Neon)** para incentivar a reutilização de itens (doação, troca ou venda).  
 
 ---
 
