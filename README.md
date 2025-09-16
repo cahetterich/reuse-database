@@ -1,15 +1,29 @@
-# 🌱 ReUse!  
+# 🌱 ReUse! - Banco de Dados  
 
-Plataforma web desenvolvida em **Prisma + PostgreSQL (Neon)** para incentivar a reutilização de itens (doação, troca ou venda).  
+Este repositório contém a camada de **banco de dados do projeto ReUse!**, configurada com **Prisma ORM** e **PostgreSQL (Neon)**.  
+
+Ele é responsável por manter a estrutura das tabelas, migrations e dados iniciais (seed).  
+
+---
+
+## 📖 Introdução  
+
+O **ReUse! Database** é o repositório responsável por manter:  
+
+- O schema do Prisma (`prisma/schema.prisma`).  
+- As migrations aplicadas no PostgreSQL (Neon).  
+- O script de seed para popular dados de exemplo.  
+
+Ele é utilizado pelo repositório principal [`reuse-web`](https://github.com/cahetterich/reuse-web).  
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias  
 
-- [Prisma ORM](https://www.prisma.io/) — ORM para banco de dados  
-- [PostgreSQL (Neon)](https://neon.tech/) — Banco de dados em nuvem  
-- [Bcrypt](https://www.npmjs.com/package/bcrypt) — Hash de senhas  
+- [Prisma ORM](https://www.prisma.io/)  
+- [PostgreSQL (Neon)](https://neon.tech/)  
 
 ---
+
 
 
